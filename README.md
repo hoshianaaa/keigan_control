@@ -1,10 +1,6 @@
 # keigan_control
-- language  
-python3  
-  
-- pkg  
-pykeigan-motor  
-bluepy  
+使用言語:Python3
+依存ライブラリ:
 
 - setup  
 bash setup.sh  
