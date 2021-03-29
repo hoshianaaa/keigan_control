@@ -1,6 +1,5 @@
 # keigan_control
 使用言語:Python3
-依存ライブラリ:
 
 - setup  
 bash setup.sh  
