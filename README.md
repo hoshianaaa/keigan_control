@@ -1,5 +1,4 @@
 # keigan_control
-使用言語:Python3
 
 ## install  
 
