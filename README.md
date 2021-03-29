@@ -3,7 +3,7 @@
 ## install  
 
 ```
-git clone https://github.com/hoshianaaa/keigan_control/edit/main/README.md
+git clone https://github.com/hoshianaaa/keigan_control
 bash setup.sh  
 ```
 
